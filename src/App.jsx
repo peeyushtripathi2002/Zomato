@@ -40,6 +40,8 @@ function App() {
         <Route path='/addr' element={<Addrestro/>}/>
         <Route path='/viewfood' element={<Viewfood/>}/>
       </Routes>
+
+      <h1>hello</h1>
     </div>
   )
 }
