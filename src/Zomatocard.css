@@ -1,0 +1,21 @@
+.container {
+    margin-top: 50px;
+}
+
+.img1 {
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.img2 {
+    height: 250px;
+    width: 300;
+    border-radius: 10px;
+}
+
+.img3 {
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+}
